@@ -1,0 +1,24 @@
+h2 {
+  margin-bottom: 0px;
+}
+
+.posts {
+  margin-top:80px;
+}
+
+.newPost {
+  margin-top: 80px;
+}
+
+.meta {
+  color: darkgray;
+  font-size: 15px;
+}
+
+.content {
+  margin-top: 15px;
+}
+
+.login {
+  margin-top: 80px;
+}
